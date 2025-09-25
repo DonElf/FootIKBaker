@@ -7,18 +7,15 @@ And, as always, you're gonna get better results doing it by hand. But, this meth
 
 ## Comparisons
 ### Before:
-https://github.com/user-attachments/assets/28b80f91-536c-4821-9684-07d0567f5ecd
-
+![RampNoIK](https://github.com/user-attachments/assets/8fe3d999-e7e6-4d3e-a2c8-797198c056c7)
 
 ### After:
-https://github.com/user-attachments/assets/546beb2f-9cfa-441a-82f5-64b677f2a245
+![RampIK](https://github.com/user-attachments/assets/2fe39e78-743a-4fea-946e-4caf1cc93262)
 
 <br>
 
 ### Before:
-
-https://github.com/user-attachments/assets/9662486d-fa7b-421a-85e1-2870c5c89ddd
+![StepsNoIK](https://github.com/user-attachments/assets/0cbe09e0-e33f-468b-9eda-4d5e3bb4dae2)
 
 ### After:
-
-https://github.com/user-attachments/assets/41d95c6b-183a-423c-b2bb-6683fcecab13
+![StepsIK](https://github.com/user-attachments/assets/0440a599-deef-4e3d-881b-a7d1d17f695f)
