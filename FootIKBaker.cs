@@ -134,6 +134,7 @@ public class FootIKBaker : EditorWindow {
                 if (i == 0)
                     continue;
 
+                // Can be inlined
                 // Velocity is  in m/s.
                 float leftVel = (leftFoot.position - prevLeft).magnitude / deltaTime;
                 float rightVel = (rightFoot.position - prevRight).magnitude / deltaTime;
@@ -153,6 +154,7 @@ public class FootIKBaker : EditorWindow {
                 // Get the Y of the animator/root.
                 float animY = animator.transform.position.y;
 
+                // Can be inlined
                 // Get the positions of the feet relative to the animator/root, hence ignoring root motion.
                 float leftY = leftFoot.position.y - animY;
                 float rightY = rightFoot.position.y - animY;
@@ -200,4 +202,5 @@ public class FootIKBaker : EditorWindow {
         // Mark dirty.
         EditorUtility.SetDirty(clip);
     }
+
 }
