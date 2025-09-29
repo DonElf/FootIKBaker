@@ -149,7 +149,7 @@ public class FootIKBaker : EditorWindow {
                 prevRight = rightFoot.position;
             }
 
-            // If we're using weight.   
+            // If we're using height.   
             if (mode != WeightMode.Velocity) {
                 // Get the Y of the animator/root.
                 float animY = animator.transform.position.y;
@@ -204,3 +204,4 @@ public class FootIKBaker : EditorWindow {
     }
 
 }
+
